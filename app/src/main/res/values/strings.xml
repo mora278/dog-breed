@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Breed Challenge</string>
+    <string name="random_dog">Random Dog</string>
+    <string name="load_new_random_dog">Load new random dog</string>
+</resources>
